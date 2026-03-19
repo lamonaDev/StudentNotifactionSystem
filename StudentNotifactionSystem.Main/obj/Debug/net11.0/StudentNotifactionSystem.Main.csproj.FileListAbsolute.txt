@@ -1,0 +1,15 @@
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\bin\Debug\net11.0\StudentNotifactionSystem.Main.exe
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\bin\Debug\net11.0\StudentNotifactionSystem.Main.deps.json
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\bin\Debug\net11.0\StudentNotifactionSystem.Main.runtimeconfig.json
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\bin\Debug\net11.0\StudentNotifactionSystem.Main.dll
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\bin\Debug\net11.0\StudentNotifactionSystem.Main.pdb
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.AssemblyInfoInputs.cache
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.AssemblyInfo.cs
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.csproj.CoreCompileInputs.cache
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.sourcelink.json
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.dll
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\refint\StudentNotifactionSystem.Main.dll
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.pdb
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\StudentNotifactionSystem.Main.genruntimeconfig.cache
+E:\StudentNotifactionSystem\StudentNotifactionSystem\StudentNotifactionSystem.Main\obj\Debug\net11.0\ref\StudentNotifactionSystem.Main.dll
