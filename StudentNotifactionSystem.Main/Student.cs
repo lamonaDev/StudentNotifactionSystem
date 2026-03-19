@@ -28,4 +28,8 @@ public class Student
         Console.WriteLine($"           Time: {e.Timestamp:yyyy-MM-dd HH:mm:ss}");
         Console.WriteLine(new string('-', 50));
     }
+    public void DisplayStats()
+    {
+        Console.WriteLine($"[STATS] {Name} has received {this.NotficationsReceived} notifications total.");
+    }
 }
